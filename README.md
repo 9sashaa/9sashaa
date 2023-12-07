@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Sasha, experienced Frontend developer. 
+- 👋 Hi, I’m Sasha, experienced Full-Stack Engineer.
 - 👀 Skilled in JavaScript, TypeScript, React, NodeJS. 
 - 🌱 I know how to work with Angular, Svelte. 
 - 💪 Strong engineering professional with a Bachelor of Science focused in Computer Science and applied Mathematics.
