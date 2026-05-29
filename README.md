@@ -15,16 +15,16 @@
 > A selection of things I’ve built — from full-stack products to systems programming.  🔒 marks private repositories.
 
 ### 🌐 Full-Stack Web Apps
-- 🔒 **fc36** — Progressive Web App for running a children’s sports club: role-based access (admin / coach / parent), students, training groups, attendance, monthly payments, uniforms and tournaments. `Next.js` `Prisma` `PostgreSQL` `PWA`
-- 🔒 **zikaron** — vocabulary trainer built on spaced repetition (Leitner five-box system) with server-side scheduling and JWT auth. `Next.js` `MongoDB` `JWT`
-- 🔒 **govnyuk** + [**govnyuk-backend**](https://github.com/9sashaa/govnyuk-backend) — card-game scorekeeper: new games, round-by-round points, winners and statistics, with a standalone REST API. `Next.js` `Express` `MongoDB`
+- 🔒 [**fc36**](https://fc36.vercel.app/) — Progressive Web App for running a children’s sports club: role-based access (admin / coach / parent), students, training groups, attendance, monthly payments, uniforms and tournaments. `Next.js` `Prisma` `PostgreSQL` `PWA`
+- 🔒 [**zikaron**](https://zikaronn.vercel.app/) — vocabulary trainer built on spaced repetition (Leitner five-box system) with server-side scheduling and JWT auth. `Next.js` `MongoDB` `JWT`
+- 🔒 **govnyuk** + **govnyuk-backend** — card-game scorekeeper: new games, round-by-round points, winners and statistics, with a standalone REST API. `Next.js` `Express` `MongoDB`
 - 🔒 **propets** — social network for pet owners with a Lost & Found board, posts and profiles (also has a `v2` Next.js client rewrite). `React` `Redux Toolkit` `Apollo / GraphQL`
 - 🔒 **hebrewerb** — Hebrew learning app: personal dictionary, grammar & verb-form tables, and a timed quiz game with an on-screen Hebrew keyboard. `React` `Firebase` `Redux`
 - 🔒 **redakt** — search & management of text entries with client-side fuzzy search and an admin panel. `Next.js` `MongoDB`
 - 🔒 **eai-** — web client with cloud authentication (Amazon Cognito), structured with Feature-Sliced Design. `Next.js` `AWS Amplify`
 
 ### 🎨 Landing & Marketing Sites
-- 🔒 **sosedka** — bilingual (EN / HE) portfolio landing page for a tattoo artist. `Next.js` `Tailwind` `i18n`
+- 🔒 [**sosedka**](https://sosedka.vercel.app/en) — bilingual (EN / HE) portfolio landing page for a tattoo artist. `Next.js` `Tailwind` `i18n`
 - 🔒 **ustina** — multilingual services-company site with consultation, worker search, payments and an email feedback form. `Next.js` `next-i18next` `Nodemailer`
 - 🔒 **awegoo** — multi-page corporate website with contact and newsletter forms delivered by email. `Next.js` `Nodemailer`
 - 🔒 **clean_home** — landing page for a home-cleaning service. `Next.js` `Tailwind`
